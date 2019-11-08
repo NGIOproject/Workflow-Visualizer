@@ -12,7 +12,7 @@ The binary of the prototype can be downloaded [here](https://cloudstore.zih.tu-d
 
 ## How to execute
 
-> ./workflow-gui
+    ./workflow-gui
 
 When a directory is specified, the subdirectories will be searched for `job_log.json` files.
 All of the found job information files will be opened and shown.
